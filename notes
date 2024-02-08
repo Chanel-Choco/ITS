@@ -1,0 +1,55 @@
+HTML 
+Links, Lists, HTML layouts, etc.
+Image Map
+Tables
+Forms
+Animated Images
+Sliding Window / Images
+Drop down (navigation bar) menu
+Pop-up images (lightbox)
+
+CSS
+CSS float
+CSS Opacity
+CSS Navigation Bar
+CSS Dropdowns
+CSS Image Gallery
+CSS Attr Selectors
+CSS Forms
+CSS Rounded Corners
+CSS Border Images
+CSS Multiple Backgrounds
+CSS Colors (rgba)
+CSS Gradients
+CSS Shadow effects, etc.
+
+
+topnav
+	        mainpage
+	        commissions [accepting commissions] [prices]
+	        works [gallery]
+	        feedback
+
+	    button to top
+		    for the 4 pages, hyperlinks to top.
+    
+    commissions
+	    pricing
+		    what are included
+		    bundles
+		    discounts
+
+	    accepting commissions
+		    survey style
+
+
+			.comlable{
+  text-align: center;
+  color: whitesmoke;
+  margin-top: 5rem;
+  border: 5px solid #101548;
+  padding: 5px;
+  margin-right: 480px;
+  margin-left: 480px;
+  border-radius: 5px;
+}
